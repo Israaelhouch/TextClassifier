@@ -4,6 +4,18 @@ A text classification project that categorizes news articles into fields like sp
 
 ---
 
+## 📊 Dataset
+
+This project uses the [News Category Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset) from Kaggle.
+
+- 📁 Contains over **200,000** news headlines from HuffPost, published between 2012 and 2018.
+- 🏷️ Each headline is labeled with one of several categories (e.g., POLITICS, ENTERTAINMENT, TECH, SPORTS, etc.)
+- 📄 Format: JSON with fields like `headline`, `category`, `authors`, and `date`.
+
+The dataset was used to train and evaluate a multi-class text classification model.
+
+---
+
 ## ✨ Features
 
 - 📑 Preprocessing of raw text data (cleaning, tokenization, vectorization)
