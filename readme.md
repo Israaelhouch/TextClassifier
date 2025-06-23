@@ -1,6 +1,6 @@
 # 🗂️ News Classification with Logistic Regression
 
-A text classification project that categorizes news articles into fields like sports, politics, and tech using logistic regression.
+A text classification project that categorizes text description into fields like sports, politics, and tech using logistic regression.
 
 ---
 
